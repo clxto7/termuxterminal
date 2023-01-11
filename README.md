@@ -1,8 +1,6 @@
 # TermuxTerminal
 ##### Secure your Termux App with Password
 
-<img src="https://i.ibb.co/1G42FbC/termux-login.png"> 
-
 ## [+] Installation & Usage
 ```
 apt update
