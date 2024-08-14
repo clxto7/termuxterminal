@@ -7,14 +7,14 @@ python /data/data/com.termux/files/usr/etc/login_script.py
 PS1="/root/>> "
 
 clear
-echo "Created By Super-HP"
+echo "Created By clxto 7 7 7"
 echo "----------------------------" | lolcat
-echo "Instagram :@ super__hp__"
-echo "Github: github.com/super-hp/"
+echo "Instagram :@7jxmn"
+echo "Github: github.com/clxto7/"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
-|W|e|l|c|o|m|e|
+WEL-CUM ;)
 +-+-+-+-+-+-+-+ " | lolcat
 date | lolcat
 echo ""
